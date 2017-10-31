@@ -13,3 +13,8 @@ But there are some areas where they are less than useful, perhaps even more than
 * encouraging connections and interactions outside the system
 * sharing new knowledge with 'the public'
 * building connections between ideas in different courses or disciplines
+* supporting renewable assignments
+
+It is these limitations that have me thinking about a broader concept of a digital learning environment at TWU. When we get locked into thinking about digital technologies as one-size-fits-all, we end up with one-size-fits-none.
+
+##### What is Digital Pedagogy?
