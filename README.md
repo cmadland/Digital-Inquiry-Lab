@@ -1,7 +1,7 @@
 ## Digital Pedagogy at TWU
 Planning notes and resources for TWU Digital Pedagogy Lab (not affiliated with HybridPedagogy.com).
 
-## What if I told you that learning management systems like Moodle are making it harder for your students to learn?
+### What if I told you that learning management systems like Moodle are making it harder for your students to learn?
 
 That's a bold and provocative question in some circles, but give me a few minutes and maybe you will see some disadvantages to the _status quo_.
 
@@ -17,4 +17,5 @@ But there are some areas where they are less than useful, perhaps even more than
 
 It is these limitations that have me thinking about a broader concept of a digital learning environment at TWU. When we get locked into thinking about digital technologies as one-size-fits-all, we end up with one-size-fits-none.
 
-## What is Digital Pedagogy?
+### What is Digital Pedagogy?
+There are a growing number of people thinking and writing about digital pedagogy like Sean Michael Morris, Jesse Stommel, Kris Shaffer, Bonnie Stewart, Maha Bali
