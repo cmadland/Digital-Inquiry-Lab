@@ -8,3 +8,8 @@ That's a bold and provocative question in some circles, but give me a few minute
 LMSs are good for some things in education, but their name (at least in North America) belies their true utility. Ultimately, they are management systems. They make it easier for administrators and faculty to manage some logistics related to educational environments. They allow faculty to access an official roster for their class in any given semester; they are great file repositories for syllabi and PowerPoints; they allow for some efficiencies in assigning, receiving, grading and providing feedback on student work; and they have generally useful gradebook record-keeping features.
 
 But there are some areas where they are less than useful, perhaps even more than less than useful.
+* building and maintaining a community of learners over time
+* allowing students to maintain ownership and control of their work
+* encouraging connections and interactions outside the system
+* sharing new knowledge with 'the public'
+* building connections between ideas in different courses or disciplines
