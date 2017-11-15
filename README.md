@@ -1,4 +1,4 @@
-## Digital Pedagogy at TWU
+## Digital Inquiry at TWU
 
 Planning notes and resources for TWU Digital Inquiry Lab.
 
