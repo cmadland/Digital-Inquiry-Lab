@@ -11,7 +11,7 @@ Time: 9am-4pm
 | 9-9:15 | -Welcome, Siya:m, logistics | Coffee Available throughout |  |
 | 9:15-9:30 | -Invitation to get Creative |  |  |
 | 9:30-10 | -Restoring a Remix Culture |  | TRIZ? |
-| 10:00-11:00 | -Keynote  "Why Open Inquiry" incl. Q&A | \(RJ?\) |  |
+| 10:00-11:00 | -Keynote  "Poking Holes in the Wall" incl. Q&A | \(RJ?\) |  |
 | 11-12 | [The Rise of Information Pollution](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) |  |  |
 | 12-1 | Lunch | catered or out in Ft. Langley |  |
 | 1-2:30 | Adopting an Open Textbook | BCCampus? ID? |  |

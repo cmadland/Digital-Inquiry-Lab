@@ -2,12 +2,10 @@
 
 * [Introduction](README.md)
 * [Schedule](schedule.md)
-  * Invitation
-  * Opening Knowledge
+  * [Invitation](schedule/invitation.md)
+  * [Opening Knowledge](schedule/opening-knowledge.md)
   * Open Inquiry
   * Information Environmentalism
   * Adopting an Open Textbook
   * Creating Open Resources with Students
-
-
 
