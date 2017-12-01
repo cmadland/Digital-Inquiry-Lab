@@ -6,11 +6,7 @@ Date: Monday, February 26, 2018
 
 Time: 9am-4pm
 
-| Time |
-| :--- |
-
-
-|  | Activity |  | Liberating Structure |
+| Time | Activity |  | Liberating Structure |
 | :--- | :--- | :--- | :--- |
 | 9-9:15 | -Welcome, Siya:m, logistics | Coffee Available throughout |  |
 | 9:15-9:30 | -Invitation to get Creative |  |  |
