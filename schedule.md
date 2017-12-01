@@ -9,7 +9,7 @@ Time: 9am-4pm
 | Time | Activity |  | Liberating Structure |
 | :--- | :--- | :--- | :--- |
 | 9-9:15 | -Welcome, Siya:m, logistics | Coffee Available throughout |  |
-| 9:15-9:30 | -Invitation to get Creative |  |  |
+| 9:15-9:30 | -Creative Kickstart |  |  |
 | 9:30-10 | -Restoring a Remix Culture |  | TRIZ? |
 | 10:00-11:00 | -Keynote  "Poking Holes in the Wall" incl. Q&A | \(RJ?\) |  |
 | 11-12 | [The Rise of Information Pollution](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) |  |  |
