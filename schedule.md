@@ -12,7 +12,7 @@ Time: 9am-4pm
 | 9:15-9:30 | -Invitation to get Creative |  |  |
 | 9:30-10 | -Restoring a Remix Culture |  | TRIZ? |
 | 10:00-11:00 | -Keynote  "Why Open Inquiry" incl. Q&A | \(RJ?\) |  |
-| 11-12 | [Information Environmentalism](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) |  |  |
+| 11-12 | [The Rise of Information Pollution](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) |  |  |
 | 12-1 | Lunch | catered or out in Ft. Langley |  |
 | 1-2:30 | Adopting an Open Textbook | BCCampus? ID? |  |
 | 2:30-4 | [Creating Open Resources with your students](https://press.rebus.community/makingopentextbookswithstudents/) | -build an initial stub of a resource for TWU faculty adopting OTB |  |
