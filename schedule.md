@@ -15,6 +15,7 @@ Time: 9am-4pm
 | 11-12 | [The Rise of Information Pollution](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) | what we can do to clean up the web |  |
 | 12-1 | Lunch | catered |  |
 | 1-2:30 | Adopting an Open Textbook | BCCampus? ID? practical steps to adopting OTB, incl required resources and supports | 10x bolder |
+|  | Tour of Open Access Journal |  |  |
 | 2:30-4 | [Creating Open Resources with your students](https://press.rebus.community/makingopentextbookswithstudents/) | -build an initial stub of a resource for TWU faculty adopting OTB |  |
 | 4:00+ | Open mic jam session |  |  |
 
