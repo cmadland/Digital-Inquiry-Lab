@@ -13,8 +13,8 @@ Time: 9am-4pm
 | 9:30-10 | Education Technology at TWU Snapshot | finding a baseline of what participants are currently doing with EdTech, place on continuum |  |
 | 10:00-11:00 | Provocations around issues in EdTech | -does the platform matter? --what does 'open' mean? -difference between 'open' and 'private' -[Antigonish2.0](https://er.educause.edu/articles/2017/5/antigonish-2-0-a-way-for-higher-ed-to-help-save-the-web) |  |
 |  |  |  |  |
-| 11:00 | BCCampus overview, creative commons licensing, attribution activity |  |  |
-| 11-12 \(Amanda available after 11\) | [The Rise of Information Pollution](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) | what we can do to clean up the web |  |
+| 11:00 - 11:30 | BCCampus overview, creative commons licensing, attribution activity | Amanda |  |
+| 11:30-12  | [The Rise of Information Pollution](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) | what we can do to clean up the web |  |
 |  |  |  |  |
 | 12-1 | Lunch | catered |  |
 | 1-1:30 | Tour of an Open Access Jurnal | Irwin |  |
