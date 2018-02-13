@@ -13,12 +13,13 @@ Time: 9am-4pm
 | 9:30-10 | Education Technology at TWU Snapshot | finding a baseline of what participants are currently doing with EdTech, place on continuum |  |
 | 10:00-11:00 | Provocations around issues in EdTech | -does the platform matter? --what does 'open' mean? -difference between 'open' and 'private' -[Antigonish2.0](https://er.educause.edu/articles/2017/5/antigonish-2-0-a-way-for-higher-ed-to-help-save-the-web) |  |
 |  |  |  |  |
+| 11:00 | BCCampus overview, creative commons licensing, attribution activity |  |  |
 | 11-12 \(Amanda available after 11\) | [The Rise of Information Pollution](https://er.educause.edu/articles/2017/10/info-environmentalism-an-introduction) | what we can do to clean up the web |  |
+|  |  |  |  |
 | 12-1 | Lunch | catered |  |
 | 1-1:30 | Tour of an Open Access Jurnal | Irwin |  |
-| 1:30-2:30 | Adopting an Open Textbook | BCCampus? ID? practical steps to adopting OTB, incl required resources and supports | 10x bolder |
+| 1:30-2:30 | What can be done with students to open pedagogy \(inquiry\) |  | 10x bolder |
 | 2:30-4 | [Creating Open Resources with your students](https://press.rebus.community/makingopentextbookswithstudents/) | -build an initial stub of a resource for TWU faculty adopting OTB |  |
-| 4:00+ | Open mic jam session |  |  |
 
 Amanda's suggested sched
 
