@@ -19,7 +19,7 @@ Time: 9am-4pm
 | 12-1 | Lunch | catered |  |
 | 1-1:30 | Tour of an Open Access Jurnal | Irwin |  |
 | 1:30-2:30 | What can be done with students to open pedagogy \(inquiry\) |  | 10x bolder |
-| 2:30-4 | [Creating Open Resources with your students](https://press.rebus.community/makingopentextbookswithstudents/) | -build an initial stub of a resource for TWU faculty adopting OTB |  |
+| 2:30-4 | [Creating Open Resources with your students](https://press.rebus.community/makingopentextbookswithstudents/) | -build an artifact to share with TWU faculty |  |
 
 Amanda's suggested sched
 
