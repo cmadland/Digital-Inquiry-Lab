@@ -18,9 +18,12 @@ Time: 9am-4pm
 |  |  |  |  |
 | 12-1 | Lunch | catered |  |
 | 1-1:30 | Tour of an Open Access Jurnal | Irwin |  |
-| 1:30-2:30 | Creative Commons: What is it? How to license resources. | Amanda |  [Slides ](https://www.gitbook.com/book/cmadland/digital-inquiry-lab/edit#)and [activity](http://bit.ly/TWUCC ) |
+| 1:30-2:30 | Creative Commons: What is it? How to license resources. | Amanda | [Slides ](https://www.gitbook.com/book/cmadland/digital-inquiry-lab/edit#)and [activity](http://bit.ly/TWUCC ) |
 | 2:30- | Open Pedagogy [Creating Open Resources with your students](https://press.rebus.community/makingopentextbookswithstudents/) | Amanda | Slides, Troika Consulting, 10X bolder |
 |  |  |  |  |
 
+* [ ] flip charts
+* [ ] sharpies
+* [ ] 
 
 
